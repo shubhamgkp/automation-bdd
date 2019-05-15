@@ -99,14 +99,14 @@ formatter.match({
   "location": "StepDefition.Open_browser()"
 });
 formatter.result({
-  "duration": 26404451600,
+  "duration": 21362512900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_click_on_Sign_In_link()"
 });
 formatter.result({
-  "duration": 4688418600,
+  "duration": 4670332200,
   "status": "passed"
 });
 formatter.match({
@@ -123,99 +123,99 @@ formatter.match({
   "location": "StepDefition.User_enter_username_and_password(String,String)"
 });
 formatter.result({
-  "duration": 374368000,
+  "duration": 365367000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.Click_on_SignIn_button()"
 });
 formatter.result({
-  "duration": 5170445100,
+  "duration": 4375525000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_clicks_on_T_Shirts_tab()"
 });
 formatter.result({
-  "duration": 5504848000,
+  "duration": 5066938000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_add_t_shirt_in_Cart()"
 });
 formatter.result({
-  "duration": 5166004200,
+  "duration": 5176839900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_clicks_on_Proceed_to_checkout_button()"
 });
 formatter.result({
-  "duration": 8887103800,
+  "duration": 9131218800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_clicks_on_Proceed_to_checkout_button_on_Summary_tab()"
 });
 formatter.result({
-  "duration": 3356090700,
+  "duration": 3090296400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_clicks_on_Proceed_to_checkout_button_on_Address_tab()"
 });
 formatter.result({
-  "duration": 2793379600,
+  "duration": 3076810700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_accepts_the_Terms_and_Condition()"
 });
 formatter.result({
-  "duration": 113338000,
+  "duration": 84156300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_clicks_on_Proceed_to_checkout_button_on_Shipping_tab()"
 });
 formatter.result({
-  "duration": 3247233400,
+  "duration": 3073791100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_choose_Pay_by_bank_wire_payment_option()"
 });
 formatter.result({
-  "duration": 1873951500,
+  "duration": 2207098400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_confirms_the_order()"
 });
 formatter.result({
-  "duration": 8256421300,
+  "duration": 7995100700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.Validate_order_has_been_done()"
 });
 formatter.result({
-  "duration": 51949700,
+  "duration": 55135200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_clicks_on_back_to_order_history()"
 });
 formatter.result({
-  "duration": 3985277400,
+  "duration": 3969061500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 147000,
+  "duration": 716689900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 164200,
+  "duration": 71500,
   "status": "passed"
 });
 formatter.uri("Update personal information.feature");
@@ -299,14 +299,14 @@ formatter.match({
   "location": "StepDefition.Open_browser()"
 });
 formatter.result({
-  "duration": 24740096000,
+  "duration": 19382976300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.User_click_on_Sign_In_link()"
 });
 formatter.result({
-  "duration": 5173819000,
+  "duration": 4595241100,
   "status": "passed"
 });
 formatter.match({
@@ -323,21 +323,21 @@ formatter.match({
   "location": "StepDefition.User_enter_username_and_password(String,String)"
 });
 formatter.result({
-  "duration": 368651800,
+  "duration": 428582000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefition.Click_on_SignIn_button()"
 });
 formatter.result({
-  "duration": 5254091100,
+  "duration": 3708259700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefitionUpdateProfile.User_clicks_on_My_Personal_Information_button()"
 });
 formatter.result({
-  "duration": 2506411200,
+  "duration": 2338466300,
   "status": "passed"
 });
 formatter.match({
@@ -350,7 +350,7 @@ formatter.match({
   "location": "StepDefitionUpdateProfile.User_enter_in_firstname_input_box(String)"
 });
 formatter.result({
-  "duration": 180737100,
+  "duration": 193272100,
   "status": "passed"
 });
 formatter.match({
@@ -363,7 +363,7 @@ formatter.match({
   "location": "StepDefitionUpdateProfile.User_enters_in_Current_password(String)"
 });
 formatter.result({
-  "duration": 124772000,
+  "duration": 167061700,
   "status": "passed"
 });
 formatter.match({
@@ -376,7 +376,7 @@ formatter.match({
   "location": "StepDefitionUpdateProfile.User_enters_in_New_Password(String)"
 });
 formatter.result({
-  "duration": 126849300,
+  "duration": 128585400,
   "status": "passed"
 });
 formatter.match({
@@ -389,14 +389,14 @@ formatter.match({
   "location": "StepDefitionUpdateProfile.User_enters_in_Confirmation(String)"
 });
 formatter.result({
-  "duration": 123741900,
+  "duration": 136734400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefitionUpdateProfile.Click_on_Save()"
 });
 formatter.result({
-  "duration": 2401538900,
+  "duration": 2053789000,
   "status": "passed"
 });
 formatter.match({
@@ -409,15 +409,15 @@ formatter.match({
   "location": "StepDefitionUpdateProfile.Validate_message(String)"
 });
 formatter.result({
-  "duration": 58637200,
+  "duration": 40166100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21100,
+  "duration": 699523400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 11700,
+  "duration": 19900,
   "status": "passed"
 });
 });
