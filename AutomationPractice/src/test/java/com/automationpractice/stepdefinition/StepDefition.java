@@ -34,7 +34,7 @@ public class StepDefition {
 
 	@Given("^Open browser$")
 	public void Open_browser() throws Throwable {
-		this.driver                       = BaseClass.getDriver();
+		StepDefition.driver                       = BaseClass.getDriver();
 		Properties  config                =  ReadConfig.readPropertFile();
 		driver.get(config.getProperty("Testing_URL"));
 		driver.manage().window().maximize();
