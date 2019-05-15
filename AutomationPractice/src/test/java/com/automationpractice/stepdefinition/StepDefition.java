@@ -133,11 +133,9 @@ public class StepDefition {
 
 		if (scenario.isFailed()) { // Take a screenshot... 
 			final byte[] screenshot =((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-			scenario.embed(screenshot, "image/png"); // ... and embed it in the report. }
-
-			if(StepDefition.driver!=null) { 
-				StepDefition.driver.quit(); }
+			scenario.embed(screenshot, "image/png"); // ... and embed it in the report. 
 		}
+		if(this.driver!=null) { 
+			this.driver.quit(); }
 	}
-
 }

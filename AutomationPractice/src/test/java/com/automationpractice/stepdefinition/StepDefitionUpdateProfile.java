@@ -30,7 +30,7 @@ public class StepDefitionUpdateProfile {
 
 
 	/*Steps starts from here*/
-		
+
 	@When("^User clicks on My Personal Information button$")
 	public void User_clicks_on_My_Personal_Information_button() throws Throwable {
 		myAccount.clickMyPersonalInformation();
@@ -72,10 +72,10 @@ public class StepDefitionUpdateProfile {
 
 		if (scenario.isFailed()) { // Take a screenshot... 
 			final byte[] screenshot =((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-			scenario.embed(screenshot, "image/png"); // ... and embed it in the report. }
-
-			if(StepDefition.driver!=null) { 
-				StepDefition.driver.quit(); }
+			scenario.embed(screenshot, "image/png"); // ... and embed it in the report.
 		}
+
+		if(this.driver!=null) { 
+			this.driver.quit(); }
 	}
 }
